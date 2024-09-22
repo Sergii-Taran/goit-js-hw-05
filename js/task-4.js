@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 const getTotalBalanceByGender = (users, gender) =>
   users
